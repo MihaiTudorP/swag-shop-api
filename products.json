@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ed5ab3454caea80d2d3f79a"},"price":40.99,"title":"Vault Boy Bobble Head","imgUrl":"https://s3-us-west-2.amazonaws.com/devslopesvideo/vault.JPG"}
+{"_id":{"$oid":"5ed5ab3454caea80d2d3f79b"},"price":129.5,"title":"Link's Shield","imgUrl":"https://s3-us-west-2.amazonaws.com/devslopesvideo/shield.png"}
+{"_id":{"$oid":"5ed5ab3954caea80d2d3f79c"},"price":400.0,"title":"Lancer","imgUrl":"https://s3-us-west-2.amazonaws.com/devslopesvideo/lancer.jpg"}
